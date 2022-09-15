@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mateus Belicio
+# Hi 👋🏻, I'm Mateus Belicio
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
