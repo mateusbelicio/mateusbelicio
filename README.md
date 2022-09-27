@@ -60,6 +60,9 @@
 <a href="mailto:mateusbelicio@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=gmail" alt="mail"/>
 </a>
+<a href="https://codepen.io/mateusbelicio" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
 
 </p>
 
@@ -69,9 +72,6 @@
 </a>
 <a href="https://twitter.com/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 -->
 
