@@ -54,26 +54,29 @@
 <p align="left" style="background:yellow">
 
 <a href="https://linkedin.com/in/mateusbelicio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/mateusbelicio" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:mateusbelicio@hotmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=gmail" alt="mail"/>
+  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="mail"/>
 </a>
-<a href="https://codepen.io/mateusbelicio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://www.frontendmentor.io/profile/mateusbelicio" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-FrontendMentor-05122A?style=flat&logo=frontendmentor" alt="codepen"/>
 </a>
 
 </p>
 
 <!--
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://codepen.io/mateusbelicio" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://youtube.com/mateusbelicio" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+<a href="https://twitter.com/mateusbelicio" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 -->
 
