@@ -56,9 +56,6 @@
 <a href="https://linkedin.com/in/mateusbelicio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/mateusbelicio" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="mailto:mateusbelicio@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="mail"/>
 </a>
@@ -69,6 +66,9 @@
 </p>
 
 <!--
+<a href="https://instagram.com/mateusbelicio" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 <a href="https://codepen.io/mateusbelicio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
