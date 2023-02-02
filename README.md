@@ -5,7 +5,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mateus Belício</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusbelicio&color=red" alt="Profile views" /> </p>
 
-- 🔭 I'm looking for a job in the moment
+- 🔭 I'm currently looking for a job
 - 🌱 I’m currently learning JavaScript and React
 - 👨🏻‍💻 I already have a good foundation in HTML, CSS, Sass and a little of JavaScript.
 
