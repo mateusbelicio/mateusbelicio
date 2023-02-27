@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently looking for a job
 - 🌱 I’m currently learning JavaScript and React
-- 👨🏻‍💻 I already have a good foundation in HTML, CSS, Sass and a little of JavaScript.
+- 👨🏻‍💻 I already have a good foundation in HTML, CSS, Sass and JavaScript.
 
 
 <!--
