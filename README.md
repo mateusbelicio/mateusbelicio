@@ -1,14 +1,14 @@
 <!--
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="400em" src="card-image.svg"/>
 -->
+
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mateus Belício</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusbelicio&color=red" alt="Profile views" /> </p>
 
 - 🔭 I'm currently looking for a job
-- 🌱 I’m currently learning JavaScript and React
-- 👨🏻‍💻 I already have a good foundation in HTML, CSS, Sass and JavaScript.
 
+- 🌱 I’m currently learning JavaScript and React
 
 <!--
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
@@ -22,14 +22,19 @@
 - ⚡ Fun fact **Oneye 😜**
 
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+
+- 👨🏻‍💻 I already have a good foundation in HTML, CSS, Sass and JavaScript.
 -->
 
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
+
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
