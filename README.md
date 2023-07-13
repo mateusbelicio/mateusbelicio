@@ -14,14 +14,20 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+
+
+
+
 
 
 <!--
@@ -30,14 +36,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
--->
-
-<!--
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateusbelicio&show_icons=true&theme=vision-friendly-dark" alt="mateusbelicio's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbelicio&layout=compact&theme=vision-friendly-dark" alt="mateusbelicio's most languages"/>
-</p>
 -->
 
 
@@ -66,6 +64,12 @@
 <a href="https://twitter.com/mateusbelicio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mateusbelicio-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
+-->
+
+<!--
+## ⚙️ &nbsp;GitHub Analytics
+<img align="left" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbelicio&layout=compact&theme=transparent&hide_border=true" alt="Mateus Belicio's stats"/>
+<img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=mateusbelicio&show_icons=true&theme=transparent&hide_border=true" alt="Mateus Belicio's most languages"/>
 -->
 
 <!--
