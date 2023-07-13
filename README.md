@@ -2,34 +2,15 @@
 <img align="right" height="400em" src="card-image.svg"/>
 -->
 
+# Hi 👋🏻, I'm Mateus Belício
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusbelicio&color=blue" alt="Profile views" /> </p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mateus Belício</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusbelicio&color=red" alt="Profile views" /> </p>
-
-- 🔭 I'm currently looking for a job
-
-- 🌱 I’m currently learning JavaScript and React
-
-<!--
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
-- 👨🏻‍💻 I already have a good foundation in HTML, CSS, Sass and JavaScript.
--->
+- 🔭 I'm currently looking for a job as front-end developer
+- 🌱 I’m currently learning React, Node.js and MongoDB
+- 🤔 I'm looking to participate in a project to increase my experience, if you know of any just tell me
 
 
-<br><br>
 ## 🛠 &nbsp;Tech Stack
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,8 +18,11 @@
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 
 <!--
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -51,14 +35,13 @@
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateusbelicio&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbelicio&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateusbelicio&show_icons=true&theme=vision-friendly-dark" alt="mateusbelicio's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbelicio&layout=compact&theme=vision-friendly-dark" alt="mateusbelicio's most languages"/>
 </p>
 -->
 
-## 📫 Contact
 
-<p align="left" style="background:yellow">
+## 📫 &nbsp;Contact
 
 <a href="https://linkedin.com/in/mateusbelicio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -69,8 +52,6 @@
 <a href="https://www.frontendmentor.io/profile/mateusbelicio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-FrontendMentor-05122A?style=flat&logo=frontendmentor" alt="codepen"/>
 </a>
-
-</p>
 
 <!--
 <a href="https://instagram.com/mateusbelicio" target="_blank">
@@ -88,7 +69,7 @@
 -->
 
 <!--
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on/at ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -96,5 +77,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔥 Sênior Web Developer ...
+- ▶️ I (not) regularly post videos on [youtube.com/username](https://youtube.com/username)
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS
+- 👨🏻‍💻 More at [mateusbelicio.dev](https://mateusbelicio.dev)
+-->
+<!--
+
+
 -->
 
