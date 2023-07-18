@@ -5,7 +5,7 @@
 I'm **Mateus Belício** and I'm currently studying to become a front-end developer while I'm finishing my degree in Control and Automation Engineering at the [Federal University of Itajubá](https://unifei.edu.br/) (Itabira, Brazil). I want to pursue a career as a developer because I'm passionate about web programming and I love creating new projects and learning more and more about web development.
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-282C2E?style=flat&logo=linkedin)](https://linkedin.com/in/mateusbelicio)
-[![Frontend Mentor](https://img.shields.io/badge/-FrontendMentor-282C2E?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/mateusbelicio)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-282C2E?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/mateusbelicio)
 
 ---
 ### 📖 &nbsp;About me
