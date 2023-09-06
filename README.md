@@ -11,14 +11,14 @@ I'm **Mateus Belício** and I'm currently studying to become a front-end develop
 ### 📖 &nbsp;About me
 
 - 🔭 I'm currently looking for a job as front-end developer
-- 🌱 I’m currently learning **React.js** and **TailwindCSS**
+- 🌱 I’m currently learning **React.js** and **TypeScript**
 - 👨🏻‍💻 I'm looking to participate in a project to increase my experience as developer. If you know of any or want to do a project with me, just tell me
 - 📫 How to reach me:
   **[send me an email](mailto:mateusbelicio.dev@gmail.com)** 
 
 ### 🛠️ &nbsp;Languages and Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, StyledComponents, Sass
+- **Frontend:** HTML, CSS, JavaScript, React.js, StyledComponents, Sass, TailwindCSS
 - **Backend:** Node.js, Express, Mongoose
 - **Database:** MongoDB
 - **More:** Git, GitHub, C++
