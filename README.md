@@ -2,19 +2,26 @@
 
 ### Hi there! 👋🏻
 
-I'm **Mateus Belício** and I'm currently studying to become a front-end developer while I'm finishing my degree in Control and Automation Engineering at the [Federal University of Itajubá](https://unifei.edu.br/) (Itabira, Brazil). I want to pursue a career as a developer because I'm passionate about web programming and I love creating new projects and learning more and more about web development.
+
+
+I'm **Mateus Belício**, I recently finished my degree in Control and Automation Engineering at the Federal University of Itajubá (Itabira, Brazil) and I'm currently studying to become a front-end developer. I want to pursue a career as a developer because I am passionate about web programming and I love creating new projects and learning more and more about web development.
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-282C2E?style=flat&logo=linkedin)](https://linkedin.com/in/mateusbelicio)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-282C2E?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/mateusbelicio)
 
 ---
+<br>
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="./assets/dev-image.svg" width="360px"/>
+
 ### 📖 &nbsp;About me
 
-- 🔭 I'm currently looking for a job as front-end developer
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
-- 👨🏻‍💻 I'm looking to participate in a project to increase my experience as developer. If you know of any or want to do a project with me, just tell me
+- 🔭 I'm currently looking for a job as front-end developer.
+- 🌱 I’m currently learning **Next.js** and **TypeScript**.
+- 👨🏻‍💻 I'm looking to participate in a project to increase my experience as developer. If you know of any or want to do a project with me, just tell me.
+- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/mateusbelicio) and on my personal portfolio at [mateusbelicio.dev](https://mateusbelicio.dev).
 - 📫 How to reach me:
-  **[send me an email](mailto:mateusbelicio.dev@gmail.com)** 
+  **[send me an email](mailto:mateusbelicio.dev@gmail.com)**. 
 
 ### 🛠️ &nbsp;Languages and Tools
 
@@ -22,10 +29,6 @@ I'm **Mateus Belício** and I'm currently studying to become a front-end develop
 - **Backend:** Node.js, Express, Mongoose
 - **Database:** MongoDB
 - **More:** Git, GitHub, C++, TypeScript, Next.js
-
-### 🔍 &nbsp;I am interested in learning...
-
-- Storybook
 
 ---
 
