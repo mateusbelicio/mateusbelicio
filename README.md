@@ -2,19 +2,17 @@
 
 ### Hi there! 👋🏻
 
-
-
 I'm **Mateus Belício**, I recently finished my degree in Control and Automation Engineering at the Federal University of Itajubá (Itabira, Brazil) and I'm currently studying to become a front-end developer. I want to pursue a career as a developer because I am passionate about web programming and I love creating new projects and learning more and more about web development.
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-282C2E?style=flat&logo=linkedin)](https://linkedin.com/in/mateusbelicio)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-282C2E?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/mateusbelicio)
 
 ---
-<br>
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="./assets/dev-image.svg" width="360px"/>
 
 ### 📖 &nbsp;About me
+
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="./assets/dev-image.svg" width="360px"/>
 
 - 🔭 I'm currently looking for a job as front-end developer.
 - 🌱 I’m currently learning **Next.js** and **TypeScript**.
@@ -32,7 +30,7 @@ I'm **Mateus Belício**, I recently finished my degree in Control and Automation
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=mateusbelicio&color=blue)](https://komarev.com/ghpvc/?username=mateusbelicio&color=blue)
+<!-- [![Profile views](https://komarev.com/ghpvc/?username=mateusbelicio&color=blue)](https://komarev.com/ghpvc/?username=mateusbelicio&color=blue) -->
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
