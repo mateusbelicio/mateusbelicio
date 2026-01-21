@@ -22,7 +22,7 @@ I'm **Mateus Belício**, a Control and Automation Engineering graduate from the 
 ### 🛠️ &nbsp;Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-282C2E?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-282C2E?style=flat&logo=CSS3&logoColor=007ACC)
+![CSS](https://img.shields.io/badge/-CSS-282C2E?style=flat&logo=CSS&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282C2E?style=flat&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-282C2E?style=flat&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-282C2E?style=flat&logo=Next.js)
